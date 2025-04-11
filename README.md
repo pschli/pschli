@@ -3,9 +3,9 @@
 
 - 🔭 I’ve just published [Cyla](https://cyla.info/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m working on a **React Native** app
 
-- 👨‍💻 All of my projects are available at [https://patrick-schlieker.de/](https://patrick-schlieker.de/)
+- 👨‍💻 More about me and my projects: [https://patrick-schlieker.de/](https://patrick-schlieker.de/)
 
 - 📫 How to reach me **mail@patrick.schlieker.de**
 
