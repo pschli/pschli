@@ -7,7 +7,7 @@
 
 - 👨‍💻 More about me and my projects: [https://patrick-schlieker.de/](https://patrick-schlieker.de/)
 
-- 📫 How to reach me **mail@patrick.schlieker.de**
+- 📫 How to reach me **mail@patrick-schlieker.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
